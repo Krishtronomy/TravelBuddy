@@ -1,7 +1,7 @@
 ## Description
 
 ### Purpose:
-'insert app name' is a Travel log app which allows users to sign in and post about locations they've visited and leave a description and/or review, which other users can then read and comment on.
+"insert app name" is a Travel log app which allows users to sign in and post about locations they've visited and leave a description and/or review, which other users can then read and comment on.
 
 
 
