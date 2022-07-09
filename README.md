@@ -1,7 +1,7 @@
 ## Description
 
 ### Purpose:
-"insert app name" is a Travel app which allows users to find locations of interest and explore what options are available near the location.
+TravelBuddy is a Travel app which allows users to find locations of interest and explore what options are available near the location.
 A user has the ability to sign in and post about locations they've visited and leave a description and/or review, which other users can then read and comment on.
 
 
@@ -39,6 +39,8 @@ The target audience is for users who seek to log their travels in one place for 
 ![architecture diagram](./docs/architecture_diagram.png)
 
 ## User Stories:
+![female face portrait](./docs/persona1.png)
+
 - "As a person who loves travelling and exploring new places to visit, I want an easy to use Application that I can quickly use without first needing to do long tutorials on learning how to operate the application. 
 - "As a user, I want to sign up easily without spending too much time, so I can get to posting about places I've visited"
 - "As a user, I want to be able to Login/Logout whenever I want"
@@ -52,6 +54,12 @@ The target audience is for users who seek to log their travels in one place for 
 - "As a user, I want to be able to leave a rating on a place I have visited, so it gives others visibilty on how I rated the location at a quick glance. 
 - "As a user, I want the option to search for a place I want to go and find what options are available in that location, so that I can make an informed decision on where to visit"
 - "As a user, I want a easy to click Navigation menu, so that I can easily switch between pages within the application"
+
+![male face portrait](./docs/persona2.png)
+
+- "As a user, I want to be able to search for places that have alot of nature, so that I can explore the outdoors"
+- "As a user, I want to be able to search for activities around a location, so that I can plan my itenerary around the location"
+- 
 
 ## Wireframes:
 
