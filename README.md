@@ -36,7 +36,7 @@ The target audience is for users who seek to log their travels in one place for 
 
 
 ## Application Architecture Diagram:
-
+![architecture diagram](./docs/architecture_diagram.png)
 
 ## User Stories:
 - "As a person who loves travelling and exploring new places to visit, I want an easy to use Application that I can quickly use without first needing to do long tutorials on learning how to operate the application. 
