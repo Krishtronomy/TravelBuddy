@@ -62,7 +62,39 @@ The target audience is for users who seek to log their travels in one place for 
 - 
 
 ## Wireframes:
+### Login:
+![login desktop](./docs/wireframes/login_desktop.png)
+![login tablet horizontal](./docs/wireframes/login_tablet_hor.png)
+![login tablet vertical](./docs/wireframes/login_tablet_vert.png)
+![login mobile](./docs/wireframes/login_mobile.png)
+![login user stories](./docs/wireframes/login_user_stories.png)
 
+### Home:
+![home desktop](./docs/wireframes/home_desktop.png)
+![home tablet horizontal](./docs/wireframes/home_tablet_hor.png)
+![home tablet vertical](./docs/wireframes/home_tablet_vert.png)
+![home mobile](./docs/wireframes/home_mobile.png)
+![home user stories](./docs/wireframes/home_user_stories.png)
 
+### Explore:
+![explore desktop](./docs/wireframes/explore_desktop.png)
+![explore tablet horizontal](./docs/wireframes/explore_tablet_hor.png)
+![explore tablet vertical](./docs/wireframes/explore_tablet_vert.png)
+![explore mobile](./docs/wireframes/explore_mobile.png)
+![explore user stories](./docs/wireframes/explore_user_stories.png)
+
+### Travels:
+![travels desktop](./docs/wireframes/travels_desktop.png)
+![travels tablet horizontal](./docs/wireframes/travels_tablet_hor.png)
+![travels tablet vertical](./docs/wireframes/travels_tablet_vert.png)
+![travels mobile](./docs/wireframes/travels_mobile.png)
+![travels user stories](./docs/wireframes/travels_user_stories.png)
+
+### Profile:
+![profile desktop](./docs/wireframes/profile_desktop.png)
+![profile tablet horizontal](./docs/wireframes/profile_tablet_hor.png)
+![profile tablet vertical](./docs/wireframes/profile_tablet_vert.png)
+![profile mobile](./docs/wireframes/profile_mobile.png)
+![profile user stories](./docs/wireframes/profile_user_stories.png)
 
 ## TrelloBoard:
