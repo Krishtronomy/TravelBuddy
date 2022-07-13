@@ -49,17 +49,22 @@ The target audience is for users who seek to log their travels in one place for 
 - "As a user, I want to add a Title and Description to my posts, so it is clear what the post is about and I can be as informative about the location as possible"
 - "As a user, I want to be able to edit or delete my post, so that I can adjust post details whenever required."
 - "As a user, I want to attach pictures to my post, so I can visually display the location and share my experience, to engage other users."
-- "As a user, I want to be able to add a profile picture, so that I can express my character and let others know I am"
-- "As a user, I want to view posts from other users and be able to comment on them, so that I can see what other people are recommending for places to visit"
 - "As a user, I want to be able to leave a rating on a place I have visited, so it gives others visibilty on how I rated the location at a quick glance. 
-- "As a user, I want the option to search for a place I want to go and find what options are available in that location, so that I can make an informed decision on where to visit"
 - "As a user, I want a easy to click Navigation menu, so that I can easily switch between pages within the application"
 
 ![male face portrait](./docs/persona2.png)
 
 - "As a user, I want to be able to search for places that have alot of nature, so that I can explore the outdoors"
 - "As a user, I want to be able to search for activities around a location, so that I can plan my itenerary around the location"
-- 
+- "As a user, I want to be able to add a profile picture, so that I can express my character and let others know I am"
+- "As a user, I want the option to search for a place I want to go and find what options are available in that location, so that I can make an informed decision on where to visit"
+- "As a user, I want to view posts from other users and be able to comment on them, so that I can see what other people are recommending for places to visit"
+
+### User Stories - Revision and Refinement:
+1. Jerome would like the ability to search for types of places using a keyword i.e. nature. We can instead have a drop down filter with pre-selected categories of location types to choose from for filtering locations.
+2. Amber would like to create posts and share them with the public to see. We can have an option to make the post 'public' or 'private' upon creation of the post to allow the user to choose.
+3. Jerome would like the ability to comment on others posts. We can have an option which allows the Author of the post to either allow or not allow comments, giving the user a choice.
+4. Amber would like the ability to add photos to her posts. We can allow for multiple photo uploads and display them in a carousel style which can then be swiped/clicked through.
 
 ## Wireframes:
 ### Login:
