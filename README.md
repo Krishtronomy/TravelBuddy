@@ -33,7 +33,7 @@ The target audience is for users who seek to log their travels in one place for 
 - Netlify (Front End Deployment)
 
 ## Dataflow Diagram:
-
+![dataflow diagram](./docs/dataflow%20diagram.png)
 
 ## Application Architecture Diagram:
 ![architecture diagram](./docs/architecture_diagram.png)
@@ -103,3 +103,19 @@ The target audience is for users who seek to log their travels in one place for 
 ![profile user stories](./docs/wireframes/profile_user_stories.png)
 
 ## TrelloBoard:
+Link to Trello:
+https://trello.com/b/MiI00w51/travelbuddy
+
+
+#### Planning
+Initial Brainstorming session discussing ideas, tools, tech stack and workflow using a shared google doc:
+![google doc](./docs/brainstorm.png)
+
+Screenshots of Trello throughout the project:
+![trello board](./docs/trello1.png)
+![trello board](./docs/trello2.png)
+![trello board](./docs/trello3.png)
+![trello board](./docs/trello4.png)
+![trello board](./docs/trello5.png)
+![trello board](./docs/trello6.png)
+![trello board](./docs/trello7.png)
