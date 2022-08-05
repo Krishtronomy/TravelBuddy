@@ -32,6 +32,21 @@ The target audience is for users who seek to log their travels in one place for 
 - Heroku (Server Deployment)
 - Netlify (Front End Deployment)
 
+
+### Libraries/Packages:
+- Material-UI:
+
+- Axios
+- Jest
+- Framer-Motion
+- Google-Map-React
+- React
+- React-Blob
+- React-Router-Dom
+- SASS
+- Windups
+
+
 ## Dataflow Diagram:
 ![dataflow diagram](./docs/dataflow%20diagram.png)
 
