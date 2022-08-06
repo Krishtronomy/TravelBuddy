@@ -34,17 +34,35 @@ The target audience is for users who seek to log their travels in one place for 
 
 
 ### Libraries/Packages:
-- Material-UI:
+* Material-UI:
+  * A comprehensive suite of UI tools which was utilised to render most front-end UI components.
 
-- Axios
-- Jest
-- Framer-Motion
-- Google-Map-React
-- React
-- React-Blob
-- React-Router-Dom
-- SASS
-- Windups
+* Axios:
+  * A promise based HTTP client for browser/node.js. This was used to obtain and manipulate api data from the traveladvisor API endpoint as well as to create API for rails backend and insert jwt bearer token. 
+
+* Jest:
+  * A JavaScript testing framework; focuses on simplicity. This was used to write our front-end tests.
+
+* Framer-Motion:
+  * A React-based motion library. This package was used to create a motionwrapper which wrapped around our app components for a smooth, reusable and recurring scroll animation.
+
+* Google-Map-React:
+  * A component written over a small set of the Google Maps API. This allows us to render any react component within the Google Map itself. Google-Map-React is fully isomorphic (renders on server and client side). Can render map components even if Google Maps API isn't loaded. Essentially, this library was used to create the map component within our app's explore page. This library is the backbone of one of the major functions of the TravelBuddy app. 
+
+* React:
+  * A free, open-sourcce front-end JavaScript library for building UI components. React was used as a major component of TravelBuddy's front-end. 
+
+* React-Blob:
+  * Simple react component that 'looks like liquid in space'. This component was used on the TravelBuddy homepage to add flair.
+
+* React-Router-Dom:
+  * This library was used for declarative routing within our react web app.
+
+* SASS:
+  * A CSS extension language which was used to help with stylings in our app.
+
+* Windups:
+  * A unique 'typewriter' like effect library for react. This was used on the TravelBuddy homepage to add another stylistic element for user engagement.
 
 
 ## Dataflow Diagram:
