@@ -153,7 +153,11 @@ Screenshots of Trello throughout the project:
 ![trello board](./docs/trello6.png)
 ![trello board](./docs/trello7.png)
 
-### Trello Part 2
+### Trello Part 2:
+- Priority and difficulty labels (in accordance with each Sprint)
+- Related Git Commits 
+- Checklists to manage each subtask per Sprint
+
 ![trello board](./docs/trello8.png)
 ![trello board](./docs/trello9.png)
 ![trello board](./docs/trello10.png)
@@ -161,11 +165,24 @@ Screenshots of Trello throughout the project:
 ![trello board](./docs/trello12.png)
 
 ### Website Final Version:
+#### Homepage: 
+Changes from Initial Wireframe include changing the search bar to a button which then redirects the Explore section:
 ![home page](./docs/website/Home.png)
+
+#### Explore Page
 ![explore page](./docs/website/Explore.png)
+
+#### Travels Page
+Slight Adjustments to the layout of the posts from the initial WireFrame
 ![travels page](./docs/website/Travels.png)
+
+#### Profile Page
+Slight Adjustments to the layout of the Profile from the initial WireFrame
 ![profile page](./docs/website/Profile.png)
+
+#### Login/Sign Up Page
 ![login page](./docs/website/Login.png)
+![login form](./docs/website/login-form.png)
 
 ### Testing:
 
