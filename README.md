@@ -134,3 +134,25 @@ Screenshots of Trello throughout the project:
 ![trello board](./docs/trello5.png)
 ![trello board](./docs/trello6.png)
 ![trello board](./docs/trello7.png)
+
+### Trello Part 2
+![trello board](./docs/trello8.png)
+![trello board](./docs/trello9.png)
+![trello board](./docs/trello10.png)
+![trello board](./docs/trello11.png)
+![trello board](./docs/trello12.png)
+
+### Website Final Version:
+![home page](./docs/website/Home.png)
+![explore page](./docs/website/Explore.png)
+![travels page](./docs/website/Travels.png)
+![profile page](./docs/website/Profile.png)
+![login page](./docs/website/Login.png)
+
+### Testing:
+
+#### Development Testing:
+![spreadsheet](./docs/dev-testing.png)
+
+#### Production Testing:
+![spreadsheet](./docs/prod-testing.png)
