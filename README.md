@@ -1,5 +1,6 @@
 ## Description
-
+Deployed Site:
+https://app-travelbuddy.netlify.app/
 ### Purpose:
 TravelBuddy is a Travel app which allows users to find locations of interest and explore what options are available near the location.
 A user has the ability to sign in and post about locations they've visited and leave a description and/or review, which other users can then read and comment on.
@@ -173,14 +174,15 @@ Initial Brainstorming session discussing ideas, tools, tech stack and workflow u
 ![google doc](./docs/brainstorm.png)
 
 #### Agile Methodology:
-- We approached our with Agile style project and split it into 3 different Sprints:
-    - Sprint 1: Get the Backend and Front end Created, with a Minimum Viable Product(MVP) with most CRUD functionality and features inline with User Stories.
-    - Sprint 2: For our second sprint we refactored most of the code and included bug fixes relating to functionality. During this sprint we also added extra features that enhance the user experience.
-    - Sprint 3: For this sprint we fixed the layout of the application to match our desired designs inline with our Wireframes. We also fixed additional bugs relating to functionality.
-- Communication:
-    - We had daily standups to discuss updates, blockers and to help eachother out while collaborating on code.
-- Git
-    - Git management was done by creating a Central repository and creating seperate feature branches and then reviewing Pull Requests and merging to the 'main' branch.
+We approached our with Agile style project and split it into 3 different Sprints:
+- Sprint 1: Get the Backend and Front end Created, with a Minimum Viable Product(MVP) with most CRUD functionality and features inline with User Stories.
+- Sprint 2: For our second sprint we refactored most of the code and included bug fixes relating to functionality. During this sprint we also added extra features that enhance the user experience.
+- Sprint 3: For this sprint we fixed the layout of the application to match our desired designs inline with our Wireframes. We also fixed additional bugs relating to functionality.
+
+Communication and Collaboration:
+- We had daily standups to discuss updates, blockers and to help eachother out while collaborating on code.
+Git
+- Git management was done by creating a Central repository and creating seperate feature branches and then reviewing Pull Requests and merging to the 'main' branch.
 
 
 
