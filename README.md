@@ -50,7 +50,7 @@ The target audience is for users who seek to log their travels in one place for 
   * A component written over a small set of the Google Maps API. This allows us to render any react component within the Google Map itself. Google-Map-React is fully isomorphic (renders on server and client side). Can render map components even if Google Maps API isn't loaded. Essentially, this library was used to create the map component within our app's explore page. This library is the backbone of one of the major functions of the TravelBuddy app. 
 
 * React:
-  * A free, open-sourcce front-end JavaScript library for building UI components. React was used as a major component of TravelBuddy's front-end. 
+  * A free, open-source front-end JavaScript library for building UI components. React was used as a major component of TravelBuddy's front-end. 
 
 * React-Blob:
   * Simple react component that 'looks like liquid in space'. This component was used on the TravelBuddy homepage to add flair.
@@ -63,6 +63,34 @@ The target audience is for users who seek to log their travels in one place for 
 
 * Windups:
   * A unique 'typewriter' like effect library for react. This was used on the TravelBuddy homepage to add another stylistic element for user engagement.
+
+* Rails:
+    * A Ruby framework that includes everything needed to create database-backed web applications following the MVC pattern or Web API's.
+    This was used to create the Backend Server and database and to serve API requests made by the client.
+
+* Knock:
+    * A ruby gem used for Authentication based on JSON Web Tokens(JWT).
+    This was used on the backend for the User model to create bearer tokens to allow for Authentication.
+
+* Bcrypt:
+    * A ruby gem used for securing and encrypting user passwords.
+    This was used along-side Knock to encrypt user passwords stored in the database.
+
+* Rack-CORS:
+    * A gem which provides support for handling Cross-Origin Resource Sharing (CORS). This was used to allow our client/front-end application to make calls to the back-en server.
+
+* AWS-SDK-S3:
+    * A gem for Amazon Simple Storage Service (Amazon S3).
+    This gem was used to store and persist images which are uploaded by a user from the front-end.
+
+* Active_Model_Serializers:
+    * A gem for formatting JSON easily, it allows to enable specific attributes needed for access. This gem was used to Serialise the image url needed for storing images in AWS S3.
+
+* Dotenv-rails:
+    * This gem allows to autoload the .ENV file needed for Configuration Variables. This was used to store secret keys and API credentials without exposing them within the Codebase.
+
+
+
 
 
 ## Dataflow Diagram:
@@ -143,6 +171,18 @@ https://trello.com/b/MiI00w51/travelbuddy
 #### Planning
 Initial Brainstorming session discussing ideas, tools, tech stack and workflow using a shared google doc:
 ![google doc](./docs/brainstorm.png)
+
+#### Agile Methodology:
+- We approached our with Agile style project and split it into 3 different Sprints:
+    - Sprint 1: Get the Backend and Front end Created, with a Minimum Viable Product(MVP) with most CRUD functionality and features inline with User Stories.
+    - Sprint 2: For our second sprint we refactored most of the code and included bug fixes relating to functionality. During this sprint we also added extra features that enhance the user experience.
+    - Sprint 3: For this sprint we fixed the layout of the application to match our desired designs inline with our Wireframes. We also fixed additional bugs relating to functionality.
+- Communication:
+    - We had daily standups to discuss updates, blockers and to help eachother out while collaborating on code.
+- Git
+    - Git management was done by creating a Central repository and creating seperate feature branches and then reviewing Pull Requests and merging to the 'main' branch.
+
+
 
 Screenshots of Trello throughout the project:
 ![trello board](./docs/trello1.png)
