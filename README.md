@@ -1,6 +1,13 @@
 ## Description
 Deployed Site:
 https://app-travelbuddy.netlify.app/
+
+TravelBuddy API (Backend):
+https://github.com/Krishtronomy/TravelBuddy-API
+
+TravelBuddy Frontend:
+https://github.com/Krishtronomy/TravelBuddy-frontend
+
 ### Purpose:
 TravelBuddy is a Travel app which allows users to find locations of interest and explore what options are available near the location.
 A user has the ability to sign in and post about locations they've visited and leave a description and/or review, which other users can then read and comment on.
